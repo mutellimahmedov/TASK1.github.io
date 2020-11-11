@@ -7,4 +7,4 @@ navbar:
 output:
   html_document: 
     theme: cosmo
-    highlight: textmae
+    highlight: textmate
